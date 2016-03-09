@@ -3,7 +3,7 @@
 > Este reposiório visa facilitar a indexação de conteúdo gerado pela comunidade Laravel Brasil.
 
 ## Solicitar
-Para solicitar um conteúdo basta abrir uma issue, informando detalhes do tipo de conteúdo que você gostaria que fosse feito.
+Para solicitar um conteúdo basta [abrir uma issue](https://github.com/artesaos/content-request/issues/new), informando detalhes do tipo de conteúdo que você gostaria que fosse feito.
 
 ## Responder
 Todos são livres para responder a uma solicitação de conteúdo!  
